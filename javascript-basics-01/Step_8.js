@@ -1,3 +1,5 @@
+var Age = prompt("Your age please:")
+document.getElementById("age").value = Age;
 document.getElementById("validate").addEventListener("click", function () {
   var age = document.getElementById("age").value;
   if (age < 18) {
