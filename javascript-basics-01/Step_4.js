@@ -6,4 +6,4 @@ alert(`
     Name: ${name}
     Surname: ${surname}
     city: ${city}
-`)
+`);
