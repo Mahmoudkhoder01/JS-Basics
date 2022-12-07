@@ -1,3 +1,3 @@
-document.querySelector("#name").onblur = function () {
+document.querySelector("#name").onblur = function() {
     alert("thank you for participating!")
 };
